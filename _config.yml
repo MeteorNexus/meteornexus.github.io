@@ -1,6 +1,6 @@
 # Site settings
 title: MeteorNexus Blog
-SEOTitle: MeteorNexus Blog
+SEOTitle: MeteorNexus | Global Meteorological Technology & Support
 header-img: img/home-bg.jpg
 email: meteornexus@gmail.com
 description: "MeteorNexus provides expert international meteorological and earth science technical support. We offer global weather data analysis, climate modeling, hazard early warning, and customized meteorological solutions, connecting technology with needs and empowering global atmospheric science."
@@ -8,7 +8,8 @@ keyword: "meteorological technical support, international weather services, eart
 url: "http://meteornexus.github.io"              # your host, for absolute URL
 # baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
 
-
+# Publish posts or collection documents with a future date.
+future: true
 
 # # SNS settings
 # RSS: false
